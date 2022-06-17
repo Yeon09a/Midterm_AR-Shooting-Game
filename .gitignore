@@ -61,7 +61,7 @@ crashlytics-build.properties
 # Ignore Vuforia file
 com.ptc.vuforia.engine@efa13d4486/
 il2cpp_android_arm64-v8a/
-SpaceWar/Library/ArtifactDB
+Midterm_AR Shooting Game/Library/ArtifactDB
 
 # Ignore files provided by the school
 Midterm_AR Shooting Game/Assets/03.Images/
