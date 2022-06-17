@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignore files provided by the school
+Midterm_AR Shooting Game/Assets/03.Images/
+Midterm_AR Shooting Game/Assets/03.Images.meta
+Midterm_AR Shooting Game/Assets/04.Models/
+Midterm_AR Shooting Game/Assets/04.Models.meta
